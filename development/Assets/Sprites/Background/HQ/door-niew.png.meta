@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5a0d4d12c9ad986419260a16e89e14a9
+guid: 45fd23d29b77ae24f818c8a0dcb0c77e
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -24,13 +24,13 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -44,6 +44,24 @@ TextureImporter:
     textureFormat: -2
     compressionQuality: 50
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: door-niew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: door-niew_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 161
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
   spritePackingTag: 
   userData: 
